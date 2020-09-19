@@ -1053,6 +1053,12 @@ table.alt tbody tr td {
   text-align: center;
 }
 
+#main .highlights.aboutimg .content {
+  height: 100%;
+  padding: 0;
+  margin-bottom: 0;
+}
+
 .highlights .content .icon {
   font-size: 5rem;
 }
